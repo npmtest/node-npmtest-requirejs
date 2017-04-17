@@ -1,7 +1,7 @@
 # test coverage for  [requirejs (v2.3.3)](http://github.com/jrburke/r.js)  [![npm package](https://img.shields.io/npm/v/npmtest-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-requirejs.svg)](https://travis-ci.org/npmtest/node-npmtest-requirejs)
 #### Node adapter for RequireJS, for loading AMD modules. Includes RequireJS optimizer
 
-[![NPM](https://nodei.co/npm/requirejs.png?downloads=true)](https://www.npmjs.com/package/requirejs)
+[![NPM](https://nodei.co/npm/requirejs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/requirejs)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-requirejs/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-requirejs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-requirejs/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-requirejs/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-requirejs/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-requirejs%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-requirejs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-requirejs/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-requirejs%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-requirejs/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-requirejs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-requirejs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-requirejs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-requirejs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-requirejs/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-requirejs/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "James Burke",
-        "email": "jrburke@gmail.com",
         "url": "http://github.com/jrburke"
     },
     "bin": {
@@ -54,13 +59,11 @@
     "main": "./bin/r.js",
     "maintainers": [
         {
-            "name": "jrburke",
-            "email": "jrburke@gmail.com"
+            "name": "jrburke"
         }
     ],
     "name": "requirejs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jrburke/r.js.git"
