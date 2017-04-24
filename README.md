@@ -1,4 +1,7 @@
-# test coverage for  [requirejs (v2.3.3)](http://github.com/jrburke/r.js)  [![npm package](https://img.shields.io/npm/v/npmtest-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-requirejs.svg)](https://travis-ci.org/npmtest/node-npmtest-requirejs)
+# npmtest-requirejs
+
+#### basic test coverage for  [requirejs (v2.3.3)](http://github.com/jrburke/r.js)  [![npm package](https://img.shields.io/npm/v/npmtest-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-requirejs.svg)](https://travis-ci.org/npmtest/node-npmtest-requirejs)
+
 #### Node adapter for RequireJS, for loading AMD modules. Includes RequireJS optimizer
 
 [![NPM](https://nodei.co/npm/requirejs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/requirejs)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-requirejs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-requirejs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-requirejs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-requirejs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-requirejs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-requirejs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-requirejs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-requirejs/build/coverage.html/index.html)
 
